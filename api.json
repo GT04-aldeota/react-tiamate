@@ -31,13 +31,15 @@
     ],
     "unidades": [
         {
-            "endereco": "Shopping Iguatemi Fortaleza (loja 68)",
+            "cidade": "Fortaleza",
+            "endereco": "Shopping Iguatemi Fortaleza",
             "cep": "70770-560",
             "horario": "Seg a Sex - 8h:00 às 18h:00, Sáb - 08h:00 às 17h:00",
             "contato": "(85) 99691 - 7642",
             "id": 1
         },
         {
+            "cidade": "Fortaleza",
             "endereco": "Shopping ViaSul",
             "cep": "70770-560",
             "horario": "Seg a Sex - 8h:00 às 18h:00, Sáb - 08h:00 às 17h:00",
@@ -45,7 +47,8 @@
             "id": 2
         },
         {
-            "endereco": "Shopping Rio Mar (loja 102)",
+            "cidade": "Fortaleza",
+            "endereco": "Shopping Rio Mar",
             "cep": "70770-560",
             "horario": "Seg a Sex - 8h:00 às 18h:00, Sáb - 08h:00 às 17h:00",
             "contato": "(85) 99691 - 7642",
