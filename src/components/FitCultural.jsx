@@ -44,10 +44,11 @@ const FitCultural = () => {
                 </div>
                 <div className="w-full max-w-6xl px-4 mt-10">
                     <h2 className="
-                        w-192.2 text-[25px] text-[#A97744]
-                        sm:text-4xl
-                        md:text-[25px]
-                        lg:w-192.5 lg:text-[50px]
+                        w-87.5 text-[30px] text-[#A97744]
+                        md:text-[35px]
+                        md:w-150
+                        lg:w-192.5 
+                        lg:text-[50px]
                         font-bold leading-tight">Coisas boas acontecem àqueles
                         que gostam de café</h2>
 
