@@ -1,49 +1,42 @@
-import React, { useState } from 'react';
-import { 
-  DollarSign, 
-  Truck, 
-  Coffee, 
-  Store, 
-  Monitor, 
-  HeartHandshake 
-} from 'lucide-react';
+import { useState } from 'react';
+import { LuCoffee, LuDollarSign, LuHeartHandshake, LuMonitor, LuStore, LuTruck } from 'react-icons/lu';
 
 const dadosDiferenciais = [
   {
     id: 1,
     titulo: "Média de Lucratividade",
     descricao: "A tiamate possui faturamento bruto percentual de lucro de 12% a 18%.",
-    icon: DollarSign ,
+    icon: LuDollarSign ,
   },
   {
     id: 2,
     titulo: "Logística Eficiente",
     descricao: "Entrega rápida e segura para garantir o abastecimento constante do seu negócio.",
-    icon: Truck,
+    icon: LuTruck,
   },
   {
     id: 3,
     titulo: "Qualidade Premium",
     descricao: "Produtos selecionados com o mais alto padrão de sabor e aroma do mercado.",
-    icon: Coffee,
+    icon: LuCoffee,
   },
   {
     id: 4,
     titulo: "Suporte à Loja",
     descricao: "Acompanhamento completo desde a inauguração até a gestão diária da franquia.",
-    icon: Store,
+    icon: LuStore,
   },
   {
     id: 5,
     titulo: "Tecnologia de Ponta",
     descricao: "Sistemas integrados para simplificar as vendas e o controle de estoque.",
-    icon: Monitor,
+    icon: LuMonitor,
   },
   {
     id: 6,
     titulo: "Compromisso Social",
     descricao: "Parcerias sustentáveis que valorizam produtores locais e o meio ambiente.",
-    icon: HeartHandshake,
+    icon: LuHeartHandshake,
   },
 ];
 

@@ -3,30 +3,30 @@
         {
             "id": 1,
             "nota": 5,
-            "depoimento": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Est magnam quo autem sunt cumque quaerat, aspernatur saepe dolores.",
-            "nome": "Joe",
-            "foto": "https://i.pinimg.com/236x/d1/e3/d2/d1e3d2a12bc3d0221898c4391dffcfff.jpg"
+            "depoimento": "O café é realmente bom, e os salgados também (pedi um croissant de 4 queijos). Já havia pedido antes via iFood mas resolvi fazer uma visita enquanto andava pelo Centro, o café fica mesmo ao lado da Praça do Ferreira. Vale a pena dar uma visitada quando quiser se refrescar com um café gelado deles ou tomar um café da manhã por lá.",
+            "nome": "Kalil Sousa",
+            "foto": "./Ellipse 1.png"
         },
         {
             "id": 2,
             "nota": 4,
-            "depoimento": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Est magnam quo autem sunt cumque quaerat, aspernatur saepe dolores.",
-            "nome": "Uriel",
-            "foto": "https://i.pinimg.com/236x/d1/e3/d2/d1e3d2a12bc3d0221898c4391dffcfff.jpg"
+            "depoimento": "Excelente café no Centro da cidade. Vale a pena uma passará para quem estiver passando pela região.",
+            "nome": "Kalil Sousa",
+            "foto": "./Ellipse 10.png"
         },
         {
             "id": 3,
             "nota": 3,
-            "depoimento": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Est magnam quo autem sunt cumque quaerat, aspernatur saepe dolores.",
+            "depoimento": "Ótimo lugar para descansar tomando aquele café, cappuccino, matte, tiamatte...😍 meu refúgio de descanso em meio ao turbulento centro de Fortal City! rs.",
             "nome": "Dani",
-            "foto": "https://i.pinimg.com/236x/d1/e3/d2/d1e3d2a12bc3d0221898c4391dffcfff.jpg"
+            "foto": "./Ellipse 11.png"
         },
         {
             "id": 4,
             "nota": 5,
-            "depoimento": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Est magnam quo autem sunt cumque quaerat, aspernatur saepe dolores.",
+            "depoimento": "A Tiamate Coffee traduz de maneira clara e objetiva o verdadeiro sabor do café e o seu espírito inovador.A Tiamate Coffee traduz de maneira clara e objetiva o verdadeiro sabor do café e o seu espírito inovador.",
             "nome": "Pamela",
-            "foto": "https://i.pinimg.com/236x/d1/e3/d2/d1e3d2a12bc3d0221898c4391dffcfff.jpg"
+            "foto": "./Retrato Circular em Preto e Branco.png"
         }
     ],
     "unidades": [

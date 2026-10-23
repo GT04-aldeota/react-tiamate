@@ -1,3 +1,5 @@
+
+import Formulario from "../components/Formulario";
 import BoasVindas from "../components/BoasVindas";
 import BannerDinamico from "../components/BannerDinamico";
 import Depoimentos from "../components/Depoimentos";
@@ -8,7 +10,7 @@ import Cardapio from "./Cardapio";
 const Home = () => {
     return (
         <>
-            <BoasVindas/>
+           <BoasVindas/>
             <BannerDinamico
                 titulo="Um café quentinho"
                 descricao={<>aqui na Tiamate<br />muda o dia.</>}
@@ -18,6 +20,7 @@ const Home = () => {
             <FitCultural />
             <AmbientAgradavel />
             <Cardapio />
+            <Formulario />
             <Depoimentos />
         </>
     );
